@@ -6,6 +6,9 @@
 ### [DBS PayLah!](https://www.dbs.com.sg/personal/deposits/pay-with-ease/dbs-paylah)
 - Referral: WIJAFY684
 
+### [Fiverr](https://www.fiverr.com)
+- Referral: http://www.fiverr.com/s2/65e911eec7
+
 ### [foodpanda.sg](https://www.foodpanda.sg)
 - Referral: https://www.foodpanda.sg/referral?code=a48f1c8c63448a6c59f231ae4a65bc79&geid=FP_SG
 
@@ -26,5 +29,3 @@
 
 ### [Wise](https://wise.com)
 - Referral: https://wise.com/invite/u/erickw44
-- Condition: https://wise.com/invite#/
-
