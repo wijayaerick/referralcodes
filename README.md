@@ -1,5 +1,8 @@
 # Erick's Referral Codes & Links
 
+### airalo
+- Referral: ERICK0717
+
 ### [Bibit](https://bibit.id)
 - Referral: wijayaerick
 
